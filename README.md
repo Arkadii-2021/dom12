@@ -1,7 +1,5 @@
-# Домашнее задание к занятию "2. DOM"
+# Webpack5
 
-# Задание 1. Перемещение элемента
+[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
 
-![CI](https://github.com/Dolinin2021/sec_2_ahj/actions/workflows/web.yml/badge.svg)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/x9o25txpee4lvh4r?svg=true)](https://ci.appveyor.com/project/Dolinin2021/sec-2-ahj)
+[Migration Guide](https://webpack.js.org/migrate/5/)
